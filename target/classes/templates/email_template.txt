@@ -1,0 +1,5 @@
+Subject: {{ subject }}
+
+Hello {{ recipient_name }},
+
+{{ message }}

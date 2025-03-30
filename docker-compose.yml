@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  smtp-server:
+    image: instrumentisto/postfix
+    ports:
+      - "25:25"
+    environment:
+      - POSTFIX_MYHOSTNAME=localhost
