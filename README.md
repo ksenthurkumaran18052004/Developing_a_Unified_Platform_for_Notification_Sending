@@ -1,4 +1,4 @@
-📬 Unified Notification Platform – Spring Boot
+Samsung R&D Prism Project - 📬 Unified Platform for Sending Notification – using Spring Boot
 
 A centralized service for sending notifications via Email, SMS (Twilio), and Telegram Bot, built with Spring Boot.
 
